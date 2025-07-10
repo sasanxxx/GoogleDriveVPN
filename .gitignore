@@ -1,0 +1,16 @@
+# Google Drive API credentials
+credentials.json
+token.json
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+venv/
+.mypy_cache/
+.pytest_cache/
+.vscode/ 
